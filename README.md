@@ -54,6 +54,7 @@ This ensures that only the top 5% of errors (assuming a 95th percentile) are cla
 
 - **`src/visualize.py`**: Handles real-time data visualization: 
 The code trains an LSTM autoencoder on normal data (mock sine wave) and detects anomalies in a live data stream. It visualizes the stream in real time, with anomalies highlighted as red points on the plot.
+![](Figure_3.png)
 
 ## Requirements
 - Python 3.x
